@@ -4,5 +4,5 @@ SimpleGit Ruby Library
 This library calls git commands and returns the output.
 "Testing git"
 
-Testing tags
+Testing tags v1.5
 Author : Scott Chacon
